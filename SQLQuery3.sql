@@ -1,0 +1,16 @@
+﻿INSERT INTO ProductMaster (ProductName, CategoryId) VALUES
+('Sports Equipment', 1),
+('E-commerce Package', 2),
+('Business Software', 3),
+('Smart TV', 4),
+('Sneakers', 5),
+('Fiction Book', 6),
+('T-Shirt', 7),
+('Foundation Cream', 8),
+('Medicine Kit', 9),
+('Phone Charger', 10),
+('Online Store', 11),
+('Corporate Subscription', 12),
+('Tennis Racket', 13),
+('Shopping Bag', 14),
+('Office Suite', 15);

@@ -1,0 +1,16 @@
+﻿INSERT INTO CategoryMaster (CategoryName) VALUES
+('Sports'),
+('Shopping'),
+('Business'),
+('Electronic'),
+('Footwear'),
+('Books'),
+('Clothing'),
+('Cosmetics'),
+('Medical'),
+('Mobile Accessories'),
+('Shopping'),
+('Business'),
+('Sports'),
+('Shopping'),
+('Business');
