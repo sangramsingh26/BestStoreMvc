@@ -31,7 +31,7 @@ This project is an ASP.NET MVC application developed to demonstrate proficiency 
 ## Getting Started
 
 1. **Clone the Repository**
-   git clone https://github.com/sangramsingh26/BestStoreMv.git
+   git clone https://github.com/sangramsingh26/BestStoreMvc.git
 
 2. **Open in Visual Studio**
    - Open the solution file in Visual Studio 2017 or later.
